@@ -1,12 +1,19 @@
 {
   "name": "loadjsfile",
   "version": "1.0.0",
-  "description": "",
+  "description": "loadjsfile is a promise based script loader for the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "front-end",
+    "browser",
+    "script",
+    "load",
+    "dependency manager",
+    "javascript"
+  ],
+  "author": "Voloshchenko Aleksandr <voloshchenkoal@gmail.com>",
+  "license": "MIT"
 }
